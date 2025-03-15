@@ -62,7 +62,7 @@ Si vous utilisez WebStorm, assurez-vous d'activer **Prettier** et **ESLint** pou
 - **Next.js** (React framework)
 - **TypeScript** (Typage statique)
 - **ESLint & Prettier** (Qualité et formatage du code)
-- **Tailwind CSS** _(si utilisé)_
+- **Tailwind CSS**
 
 ---
 
@@ -83,3 +83,7 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 ---
 
 ### 🎉 Bon développement avec OnlyFlan - GUI ! 🍮
+
+---
+
+© 2025 OnlyFlan. Tous droits réservés.
