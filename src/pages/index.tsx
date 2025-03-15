@@ -13,7 +13,9 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <>
-      <h1>Bienvenue sur le site OnlyFlan</h1>
+      <h1 className="text-3xl font-bold underline xs:bg-main lg:bg-secondary">
+        Bienvenue sur le site OnlyFlan
+      </h1>
       <h2>Cette fois, vous n’allez pas être mou du flan</h2>
     </>
   );
