@@ -7,6 +7,7 @@ import { IconName } from "@/components/icons/icon.enum";
 import { ButtonColor, ButtonSize, ButtonWidth } from "@/components/button/button.enum";
 import { LinkButton } from "@/components/button/link-button";
 
+/* TODO SUPPRIMER CETTE PAGE QUAND LES TESTS SERONT FINIS */
 const ComponentPage = () => {
   return (
     <div className="pt-10 px-8">
